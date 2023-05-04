@@ -1,0 +1,2 @@
+# GPU Specs And Prices
+Data obtained through [Kaggle](https://www.kaggle.com/datasets/alanjo/graphics-card-full-specs?resource=download) and [Tom's Hardware](https://www.tomshardware.com/news/gpu-pricing-index)
