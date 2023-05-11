@@ -47,9 +47,11 @@ THe outliers withing the graphs are relative to Ti and XT versions of the GPUs. 
 Here are the graphs for Memory Clock Speed:
 
 Nvidia:
+
 ![Nvidia Memory CLock Speed](Graphs/nvidia_mem_c.png 'Nvidia Memory CLock Speed')
 
 AMD/Intel:
+
 ![AMD and Intel Memory Clock Speed](Graphs/amd_intel_mem_c.png 'AMD and Intel Memory Clock Speed')
 
 ## Summary
